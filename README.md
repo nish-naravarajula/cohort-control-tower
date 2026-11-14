@@ -41,7 +41,7 @@ python control_tower/run.py <release_A_folder> <release_B_folder> findings.json
 python format/validate.py findings.json
 ```
 
-**Try it on the practice envelope (same steps as judging):**
+**Try it on the practice envelope :**
 ```bash
 python envelopes/unseal.py practice orange meadow pilot lantern
 python control_tower/run.py data/tcga-brca/raw envelopes/opened/practice/release findings.json
