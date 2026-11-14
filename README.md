@@ -21,9 +21,9 @@ Built on the organizers' challenge kit: [disleveK/oncosys-hackathon-challenge](h
 | **A2** | What share of primary tumors is each PAM50 subtype? | clinical `PAM50Call_RNAseq` |
 
 ## Team
-- <Name 1>
-- <Name 2>
-- <Name 3>
+- Shravya Ushake
+- Nishant Naravarajula
+- Sai Guna Vardhan Vudatala
 
 ## Setup
 Needs Python 3.10+.
